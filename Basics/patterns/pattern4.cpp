@@ -12,9 +12,15 @@ int main(){
                 cout << i;
             }
             cout << endl;
-        }
+        }        
     }else{
         cout << "n out of range";
     }
     return 0;
 }
+
+// pattern for n = 4
+// 1
+// 22
+// 333
+// 4444
