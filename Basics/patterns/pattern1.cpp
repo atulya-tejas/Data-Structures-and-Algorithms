@@ -1,3 +1,4 @@
+// pattern 1 : sqaure
 #include <iostream>
 using namespace std;
 
@@ -12,3 +13,9 @@ int main(){
         cout << endl;
     }
 }
+
+// pattern for n = 4
+// ****
+// ****
+// ****
+// ****
