@@ -14,3 +14,10 @@ int main(){
     }
     return 0;
 }
+
+// output
+// Enter n:4
+// ****
+// ***
+// **
+// *
