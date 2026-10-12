@@ -4,7 +4,7 @@ using namespace std;
 
 void pattern(int n){
     for(int i = 0; i < n;i++){
-        for(int j = n - i - 1 ; j > 0; j--){
+        for(int j = n - (i + 1) ; j > 0; j--){
             cout << " ";
         }
         for(char k = 'A'; k <= 'A' + i ;k++){
@@ -27,7 +27,7 @@ int main(){
  
 //outpur:
 // Enter n:4
-// A
-// BB
-// CCC
-// DDDD
+//    A
+//   ABA
+//  ABCBA
+// ABCDCBA
