@@ -1,4 +1,4 @@
-// pattern 15 : Row Character Triangle
+// pattern 16 : Row Character Triangle
 #include <iostream>
 using namespace std;
 
