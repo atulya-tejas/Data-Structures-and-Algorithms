@@ -1,4 +1,5 @@
-// pattern 11 : Binary triangle
+// pattern 11 :
+
 #include <iostream>
 using namespace std;
 
@@ -11,7 +12,7 @@ void pattern(int n){
             }else{ // if t = 0 ,change t = 1
                 t = 1;
             }
-            cout << t;
+            cout << t; 
         }
         cout << endl;
     }
@@ -25,6 +26,7 @@ int main(){
     return 0;
 }
  
+
 //outpur:
 // Enter n:4       
 // 1
